@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BMPTec.API/BMPTec.API.csproj" />
+  <Project Path="BMPTec.Application/BMPTec.Application.csproj" Id="2934f57f-fa6d-4a2c-97fc-2019b4b94cc4" />
+  <Project Path="BMPTec.Domain/BMPTec.Domain.csproj" Id="0be98c7f-db70-45c0-a286-aefd9fbbc80a" />
+  <Project Path="BMPTec.Infrastructure/BMPTec.Infrastructure.csproj" Id="86d64b1b-31d8-411f-ba6d-dbd9be8f70b4" />
+</Solution>
